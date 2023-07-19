@@ -16,7 +16,7 @@ We will train and evaluate a regression model for a taxi company that will predi
 - *datetime:* date (YYYY-MM-DD) and time (HH:MM:SS)
 - *num_orders:* number of orders
 
-## Required Libraries
+## Requirements
 - pandas
 - matplotlib.pyplot
 - sklearn.linear_model
